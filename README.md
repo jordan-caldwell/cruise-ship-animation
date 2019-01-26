@@ -1,5 +1,5 @@
 # Cruise Ship Loading Animation
-An experiment animating an svg with CSS.
+An experiment animating an SVG with CSS.
 
 Built using [Bootstrap 4 boilerplate project](https://github.com/JayeshLab/bootstrap-4-sass-gulp-4-boilerplate.git) for quick startup time. 
 
@@ -7,5 +7,7 @@ Built using [Bootstrap 4 boilerplate project](https://github.com/JayeshLab/boots
 - Polish animation timing
 - Investigate issue with scaling smoke clouds
 - Clean up animation.scss and use mixins
+- Remove unused dependencies 
+- Responsive testing and cleanup
 
 
